@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aisieceeza.haline.top/sitemap.xml
